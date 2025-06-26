@@ -1,0 +1,153 @@
+# Page snapshot
+
+```yaml
+- link "Skip to content":
+  - /url: ""
+- link "Using Gmail with screen readers":
+  - /url: ""
+- heading [level=1]:
+  - banner:
+    - button "Main menu" [expanded]:
+      - img
+    - link "Gmail":
+      - /url: "#inbox"
+    - search:
+      - heading "Search" [level=2]
+      - button "Search mail" [disabled]:
+        - img
+    - button:
+      - img
+    - button "Settings":
+      - img
+    - button "Try Gemini"
+    - button "Google apps":
+      - img
+    - 'button "Google Account: Marcos auo (auomarcos@gmail.com)"'
+- alert
+- navigation:
+  - button "Compose"
+  - heading "Labels" [level=2]
+  - img
+  - link "Inbox":
+    - /url: https://mail.google.com/mail/u/0/#inbox
+  - img
+  - link "Starred":
+    - /url: https://mail.google.com/mail/u/0/#starred
+  - img
+  - link "Snoozed":
+    - /url: https://mail.google.com/mail/u/0/#snoozed
+  - img
+  - link "Sent":
+    - /url: https://mail.google.com/mail/u/0/#sent
+  - img
+  - link "Drafts":
+    - /url: https://mail.google.com/mail/u/0/#drafts
+  - button "More labels":
+    - text: More
+    - img
+  - heading "Labels"
+  - button "Create new label"
+  - heading "Labels" [level=2]
+  - link "Upgrade"
+- toolbar "search refinement"
+- button "Select":
+  - checkbox
+- button "Refresh":
+  - img
+- button "More email options":
+  - img
+- button "Show more messages": 1–3 of 3
+- button "Newer" [disabled]
+- button "Older" [disabled]
+- button "Input tools on/off (Ctrl-Shift-K)"
+- button "Select input tool"
+- main:
+  - heading "Conversations" [level=2]
+  - table:
+    - rowgroup:
+      - tablist:
+        - heading "Primary, one new message," [level=3]:
+          - tab "Primary, one new message," [selected]: 1 new Primary Michael Truell — Making the most of Cursor
+        - heading "Promotions, 3 new messages," [level=3]:
+          - tab "Promotions, 3 new messages,": 3 new Promotions Netflix — Solo PEN 28.90 al mes por el mejor entretenimiento 👏
+        - heading "Social" [level=3]:
+          - tab "Social"
+        - cell
+        - cell
+      - row
+  - text: Get started with Gmail
+  - button "Customize your inbox"
+  - text: Customize your inbox
+  - button "Change profile image"
+  - text: Change profile image
+  - button "Import contacts and mail"
+  - text: Import contacts and mail
+  - button "Get Gmail for mobile"
+  - text: Get Gmail for mobile
+  - button "Dismiss"
+  - tabpanel "Primary":
+    - grid:
+      - rowgroup:
+        - 'row "unread, Michael Truell, Making the most of Cursor, 10:27 AM, Hi Marcos, Your free plan for Cursor is now active. Thank you for trying out the editor. Here are a few things you can try in Cursor: - Type and press Tab to accept an autocomplete or a suggested diff."':
+          - gridcell
+          - 'gridcell "unread, Michael Truell, Making the most of Cursor, 10:27 AM, Hi Marcos, Your free plan for Cursor is now active. Thank you for trying out the editor. Here are a few things you can try in Cursor: - Type and press Tab to accept an autocomplete or a suggested diff."':
+            - 'checkbox "unread, Michael Truell, Making the most of Cursor, 10:27 AM, Hi Marcos, Your free plan for Cursor is now active. Thank you for trying out the editor. Here are a few things you can try in Cursor: - Type and press Tab to accept an autocomplete or a suggested diff."'
+          - gridcell "Not starred":
+            - button "Not starred"
+          - gridcell "New Michael Truell"
+          - 'gridcell "Making the most of Cursor Hi Marcos, Your free plan for Cursor is now active. Thank you for trying out the editor. Here are a few things you can try in Cursor: - Type and press Tab to accept an autocomplete or a suggested diff"':
+            - 'link "Making the most of Cursor Hi Marcos, Your free plan for Cursor is now active. Thank you for trying out the editor. Here are a few things you can try in Cursor: - Type and press Tab to accept an autocomplete or a suggested diff"'
+          - gridcell
+          - gridcell "Wed, Jun 25, 2025, 10:27 AM": 10:27 AM
+          - gridcell
+        - row "unread, The Postman Team, You're In! Get started with smarter API testing, Jun 24, Hey there, and welcome on board! 🎉 You're all set to start designing, testing, and collaborating on APIs. Here's how to hit the ground running. Verify API behavior Send requests and inspect.":
+          - gridcell
+          - gridcell "unread, The Postman Team, You're In! Get started with smarter API testing, Jun 24, Hey there, and welcome on board! 🎉 You're all set to start designing, testing, and collaborating on APIs. Here's how to hit the ground running. Verify API behavior Send requests and inspect.":
+            - checkbox "unread, The Postman Team, You're In! Get started with smarter API testing, Jun 24, Hey there, and welcome on board! 🎉 You're all set to start designing, testing, and collaborating on APIs. Here's how to hit the ground running. Verify API behavior Send requests and inspect."
+          - gridcell "Not starred":
+            - button "Not starred"
+          - gridcell "The Postman Team"
+          - gridcell "You're In! Get started with smarter API testing Hey there, and welcome on board! 🎉 You're all set to start designing, testing, and collaborating on APIs. Here's how to hit the ground running. Verify API behavior Send requests and inspect":
+            - link "You're In! Get started with smarter API testing Hey there, and welcome on board! 🎉 You're all set to start designing, testing, and collaborating on APIs. Here's how to hit the ground running. Verify API behavior Send requests and inspect":
+              - text: You're In! Get started with smarter API testing Hey there, and welcome on board!
+              - img "🎉"
+              - text: You're all set to start designing, testing, and collaborating on APIs. Here's how to hit the ground running. Verify API behavior Send requests and inspect
+          - gridcell
+          - gridcell "Tue, Jun 24, 2025, 11:49 AM": Jun 24
+          - gridcell
+        - row "unread, Netflix, Verifica tu dirección de email, Jun 22, Verifica tu dirección de email para proteger tu cuenta y mantenerla actualizada. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.":
+          - gridcell
+          - gridcell "unread, Netflix, Verifica tu dirección de email, Jun 22, Verifica tu dirección de email para proteger tu cuenta y mantenerla actualizada. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏.":
+            - checkbox "unread, Netflix, Verifica tu dirección de email, Jun 22, Verifica tu dirección de email para proteger tu cuenta y mantenerla actualizada. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏."
+          - gridcell "Not starred":
+            - button "Not starred"
+          - gridcell "Netflix"
+          - gridcell "Verifica tu dirección de email Verifica tu dirección de email para proteger tu cuenta y mantenerla actualizada. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏":
+            - link "Verifica tu dirección de email Verifica tu dirección de email para proteger tu cuenta y mantenerla actualizada. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏"
+          - gridcell
+          - gridcell "Sun, Jun 22, 2025, 4:18 PM": Jun 22
+          - gridcell
+- contentinfo:
+  - link "0% of 15 GB used Follow link to manage storage":
+    - /url: https://drive.google.com/u/0/settings/storage?hl=en&utm_medium=web&utm_source=gmail&utm_campaign=storage_meter&utm_content=storage_normal
+    - text: 0% of 15 GB used
+    - img "Follow link to manage storage"
+  - link "Terms":
+    - /url: https://www.google.com/intl/en/policies/terms/
+  - text: ·
+  - link "Privacy":
+    - /url: https://www.google.com/intl/en/policies/privacy/
+  - text: ·
+  - link "Program Policies":
+    - /url: https://www.google.com/gmail/about/policy/
+  - text: "Last account activity: 4 hours ago"
+  - link "Details"
+- complementary "Side panel":
+  - tablist:
+    - tab "Calendar"
+    - tab "Keep"
+    - tab "Tasks"
+    - tab "Contacts"
+- button "Hide side panel":
+  - img
+```

@@ -1,0 +1,40 @@
+# Page snapshot
+
+```yaml
+- text: Actualiza a una versión más inteligente de Gmail Correo electrónico seguro, rápido y organizado
+- link "Abrir":
+  - /url: "#"
+- text: Actualiza a la app de Gmail
+- table:
+  - rowgroup:
+    - row "Accede a tu correo electrónico con un solo clic":
+      - cell
+      - cell "Accede a tu correo electrónico con un solo clic"
+    - row "Recibe notificaciones de correo electrónico nuevo.":
+      - cell
+      - cell "Recibe notificaciones de correo electrónico nuevo."
+    - row "Agrega cuentas que no sean de Gmail":
+      - cell
+      - cell "Agrega cuentas que no sean de Gmail"
+- button "Abrir la app de Gmail"
+- text: Usar la versión web
+- button "Menú"
+- button "Actualizar"
+- text: Principal
+- button "Redactar"
+- search:
+  - searchbox "Buscar"
+- list:
+  - listitem:
+    - button "No leídos Michael Truell Making the most of Cursor"
+    - checkbox "Seleccionar"
+    - checkbox "Destacar"
+  - listitem:
+    - button "No leídos The Postman Team You're In! Get started with smarter API testing"
+    - checkbox "Seleccionar"
+    - checkbox "Destacar"
+  - listitem:
+    - button "No leídos Netflix Verifica tu dirección de email"
+    - checkbox "Seleccionar"
+    - checkbox "Destacar"
+```

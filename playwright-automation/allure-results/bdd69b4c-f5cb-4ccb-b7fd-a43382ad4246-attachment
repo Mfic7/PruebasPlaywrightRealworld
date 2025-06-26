@@ -1,0 +1,51 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Netflix":
+    - /url: /
+- heading "Iniciar sesión" [level=1]
+- text: Email o número de celular
+- textbox "Email o número de celular": auomarcos@gmail.com
+- text: Contraseña
+- textbox "Contraseña": "?Auomarcos1."
+- button "Iniciar sesión" [disabled]
+- paragraph: O
+- button "Usar un código de inicio de sesión" [disabled]
+- link "¿Olvidaste la contraseña?":
+  - /url: /loginhelp
+- checkbox "Recordarme" [checked]
+- text: Recordarme ¿Primera vez en Netflix?
+- link "Suscríbete ya.":
+  - /url: /
+- paragraph: Esta página está protegida por Google reCAPTCHA para comprobar que no eres un robot.
+- link "Más info.":
+  - paragraph: Más info.
+- contentinfo:
+  - text: ¿Preguntas? Llama al
+  - link "0-800-52351 (sin cargo)":
+    - /url: tel:0-800-52351
+  - list:
+    - listitem:
+      - link "Preguntas frecuentes":
+        - /url: https://help.netflix.com/support/412
+    - listitem:
+      - link "Centro de ayuda":
+        - /url: https://help.netflix.com
+    - listitem:
+      - link "Términos de uso":
+        - /url: https://help.netflix.com/legal/termsofuse
+    - listitem:
+      - link "Privacidad":
+        - /url: https://help.netflix.com/legal/privacy
+    - listitem:
+      - link "Preferencias de cookies":
+        - /url: "#"
+    - listitem:
+      - link "Información empresarial":
+        - /url: https://help.netflix.com/legal/corpinfo
+  - text: Seleccionar idioma
+  - combobox "Seleccionar idioma":
+    - option "Español" [selected]
+    - option "English"
+```

@@ -1,0 +1,25 @@
+# Page snapshot
+
+```yaml
+- heading "Couldn’t sign you in" [level=1]
+- text: This browser or app may not be secure.
+- link "Learn more":
+  - /url: https://support.google.com/accounts/answer/7675428?hl=en-US
+- text: Try using a different browser. If you’re already using a supported browser, you can try again to sign in.
+- link "Try again":
+  - /url: /restart?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&dsh=S70409873%3A1750888879163552&emr=1&flowEntry=ServiceLogin&flowName=GlifWebSignIn&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AdBytiPmWL1PeOFE4jap1PoemSJw8i8nPjfOf3afV3isVQm3Vl_AlT_3GAtND5wQcyn74dowH9Yi&osid=1&service=mail
+- contentinfo:
+  - combobox "Change language English (United States)"
+  - list:
+    - listitem:
+      - link "Help":
+        - /url: https://support.google.com/accounts?hl=en-US&p=account_iph
+    - listitem:
+      - link "Privacy":
+        - /url: https://accounts.google.com/TOS?loc=PE&hl=en-US&privacy=true
+    - listitem:
+      - link "Terms":
+        - /url: https://accounts.google.com/TOS?loc=PE&hl=en-US
+- iframe
+- text: Couldn’t sign you in
+```

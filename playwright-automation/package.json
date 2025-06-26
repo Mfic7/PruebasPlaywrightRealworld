@@ -1,0 +1,32 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "description": "Proyecto de automatización con Playwright para Netflix y Gmail",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:netflix": "playwright test netflix.spec.ts",
+    "test:gmail": "playwright test gmail.spec.ts",
+    "report": "allure generate allure-results --clean && allure open",
+    "report:generate": "allure generate allure-results --clean",
+    "install:browsers": "playwright install"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "netflix",
+    "gmail"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.0.0",
+    "allure-playwright": "^2.12.0",
+    "playwright": "^1.40.0",
+    "typescript": "^5.0.0"
+  }
+}

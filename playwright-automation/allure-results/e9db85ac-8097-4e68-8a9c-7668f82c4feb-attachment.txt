@@ -1,0 +1,7 @@
+URL actual: https://www.netflix.com/pe-en/
+Títulos encontrados: [
+  'Unlimited movies, TV shows, and more',
+  'Ready to watch? Enter your email to create or restart your membership.',
+  'Trending Now'
+]
+Título de la página: Netflix Peru - Watch TV Shows Online, Watch Movies Online

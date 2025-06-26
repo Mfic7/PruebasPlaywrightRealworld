@@ -1,0 +1,52 @@
+# Page snapshot
+
+```yaml
+- link "Netflix Logo":
+  - /url: /pe-en/
+  - img "Netflix Logo"
+- text: Select Language
+- combobox "Select Language Select Language":
+  - option "Español"
+  - option "English" [selected]
+- heading "Please make some updates" [level=2]
+- paragraph:
+  - text: To access all features, please update your browser, operating system, or device. You can learn more about updates
+  - link "here":
+    - /url: https://help.netflix.com/node/133344
+  - text: ", or sign in below."
+- link "Sign In":
+  - /url: /login
+- paragraph:
+  - text: Questions? Call
+  - link "0-800-52351":
+    - /url: tel:0-800-52351
+- list:
+  - listitem:
+    - link "FAQ":
+      - /url: https://help.netflix.com/support/412
+  - listitem:
+    - link "Gift Card Terms":
+      - /url: https://www.netflix.com/giftterms
+  - listitem:
+    - link "Help Center":
+      - /url: https://help.netflix.com
+  - listitem:
+    - link "Investor Relations":
+      - /url: http://ir.netflix.com/
+  - listitem:
+    - link "Terms of Use":
+      - /url: https://help.netflix.com/legal/termsofuse
+  - listitem:
+    - link "Privacy":
+      - /url: https://help.netflix.com/legal/privacy
+  - listitem:
+    - link "Cookie Preferences":
+      - /url: "#"
+  - listitem:
+    - link "Corporate Information":
+      - /url: https://help.netflix.com/legal/corpinfo
+- text: Select Language
+- combobox:
+  - option "Español"
+  - option "English" [selected]
+```

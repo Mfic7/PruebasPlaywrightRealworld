@@ -1,0 +1,7 @@
+URL actual: https://www.netflix.com/pe/
+Títulos encontrados: [
+  'Disfruta en tu TV',
+  'Descarga tus series para verlas offline',
+  'Disfruta donde quieras'
+]
+Título de la página: Netflix Perú: Ve series online, ve películas online

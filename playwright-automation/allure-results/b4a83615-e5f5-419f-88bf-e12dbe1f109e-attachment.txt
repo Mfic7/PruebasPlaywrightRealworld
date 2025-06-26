@@ -1,0 +1,7 @@
+URL actual: https://www.netflix.com/pe
+Título de la página: Netflix Perú: Ve series online, ve películas online
+Error al extraer títulos de películas: page.waitForSelector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator('[data-uia="title-card-title"]') to be visible
+
+Títulos encontrados: [ 'No se pudieron extraer títulos de películas' ]

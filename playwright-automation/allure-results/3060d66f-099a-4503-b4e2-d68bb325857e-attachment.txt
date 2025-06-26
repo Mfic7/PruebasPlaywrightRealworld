@@ -1,0 +1,3 @@
+URL actual: https://www.netflix.com/pe-en/
+No se pudieron obtener títulos de películas
+Títulos encontrados: [ 'Título no disponible' ]

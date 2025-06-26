@@ -1,0 +1,3 @@
+URL de Netflix: https://www.netflix.com/pe-en/
+Título de Netflix: Netflix - Watch TV Shows Online, Watch Movies Online
+Contenido de la página encontrado: Select LanguageEspañolEnglish<input class="btn-red btn-small langSelectionSubmit" type="submit" value="Submit"/>Please make some updatesTo access all features, please update your browser, operating sy...

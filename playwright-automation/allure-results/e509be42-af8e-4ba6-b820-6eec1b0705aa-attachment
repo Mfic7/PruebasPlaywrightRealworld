@@ -1,0 +1,142 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - text: Netflix Select Language
+  - combobox "Select Language":
+    - option "EspañolEspañol"
+    - option "EnglishEnglish" [selected]
+  - button "Sign In"
+- heading "Unlimited movies, TV shows, and more" [level=1]
+- paragraph: Starts at PEN 28.90. Cancel anytime.
+- form "Sign up or restart your membership with Netflix.":
+  - heading "Ready to watch? Enter your email to create or restart your membership." [level=3]
+  - text: Email address
+  - textbox "Email address"
+  - button "Get Started"
+- heading "Trending Now" [level=2]
+- list:
+  - listitem:
+    - button "Squid Game 1"
+  - listitem:
+    - button "Rosario Tijeras (Mexico) 2"
+  - listitem:
+    - button "STRAW 3"
+  - listitem:
+    - button "Pearl 4"
+  - listitem:
+    - button "Ginny & Georgia 5"
+  - listitem:
+    - button "Land of Bad 6"
+  - listitem:
+    - button "K.O. 7"
+  - listitem:
+    - button "KPop Demon Hunters 8"
+  - listitem:
+    - button "When Life Gives You Tangerines 9"
+  - listitem:
+    - button "ONE PIECE 10"
+- heading "More Reasons to Join" [level=2]
+- heading "Enjoy on your TV" [level=3]
+- paragraph: Watch on Smart TVs, Playstation, Xbox, Chromecast, Apple TV, Blu-ray players, and more.
+- img
+- heading "Download your shows to watch offline" [level=3]
+- paragraph: Save your favorites easily and always have something to watch.
+- img
+- heading "Watch everywhere" [level=3]
+- paragraph: Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.
+- img
+- heading "Create profiles for kids" [level=3]
+- paragraph: Send kids on adventures with their favorite characters in a space made just for them — free with your membership.
+- img
+- heading "Frequently Asked Questions" [level=2]
+- list:
+  - listitem:
+    - heading "What is Netflix?" [level=3]:
+      - button "What is Netflix?"
+  - listitem:
+    - heading "How much does Netflix cost?" [level=3]:
+      - button "How much does Netflix cost?"
+  - listitem:
+    - heading "Where can I watch?" [level=3]:
+      - button "Where can I watch?"
+  - listitem:
+    - heading "How do I cancel?" [level=3]:
+      - button "How do I cancel?"
+  - listitem:
+    - heading "What can I watch on Netflix?" [level=3]:
+      - button "What can I watch on Netflix?"
+  - listitem:
+    - heading "Is Netflix good for kids?" [level=3]:
+      - button "Is Netflix good for kids?"
+- form "Sign up or restart your membership with Netflix.":
+  - heading "Ready to watch? Enter your email to create or restart your membership." [level=3]
+  - text: Email address
+  - textbox "Email address"
+  - button "Get Started"
+- contentinfo:
+  - paragraph:
+    - text: Questions? Call
+    - link "0-800-52351":
+      - /url: tel:0-800-52351
+  - list:
+    - listitem:
+      - link "FAQ":
+        - /url: https://help.netflix.com/support/412
+    - listitem:
+      - link "Help Center":
+        - /url: https://help.netflix.com
+    - listitem:
+      - link "Account":
+        - /url: /youraccount
+    - listitem:
+      - link "Media Center":
+        - /url: https://media.netflix.com/
+    - listitem:
+      - link "Investor Relations":
+        - /url: http://ir.netflix.com/
+    - listitem:
+      - link "Jobs":
+        - /url: https://jobs.netflix.com/jobs
+    - listitem:
+      - link "Redeem Gift Cards":
+        - /url: /redeem
+    - listitem:
+      - link "Buy Gift Cards":
+        - /url: /gift-cards
+    - listitem:
+      - link "Ways to Watch":
+        - /url: /watch
+    - listitem:
+      - link "Terms of Use":
+        - /url: https://help.netflix.com/legal/termsofuse
+    - listitem:
+      - link "Privacy":
+        - /url: https://help.netflix.com/legal/privacy
+    - listitem:
+      - link "Cookie Preferences":
+        - /url: "#"
+    - listitem:
+      - link "Corporate Information":
+        - /url: https://help.netflix.com/legal/corpinfo
+    - listitem:
+      - link "Contact Us":
+        - /url: https://help.netflix.com/contactus
+    - listitem:
+      - link "Speed Test":
+        - /url: https://fast.com
+    - listitem:
+      - link "Legal Notices":
+        - /url: https://help.netflix.com/legal/notices
+    - listitem:
+      - link "Only on Netflix":
+        - /url: https://www.netflix.com/pe-en/browse/genre/839338
+  - text: Select Language
+  - combobox "Select Language":
+    - option "EspañolEspañol"
+    - option "EnglishEnglish" [selected]
+  - paragraph: Netflix Peru
+  - paragraph:
+    - text: This page is protected by Google reCAPTCHA to ensure you're not a bot.
+    - link "Learn more."
+```

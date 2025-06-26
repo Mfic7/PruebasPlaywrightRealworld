@@ -1,0 +1,7 @@
+URL actual: https://www.netflix.com/pe-en/
+Títulos encontrados: [
+  'Please make some updates',
+  'Privacy Preference Center',
+  'General Description'
+]
+Título de la página: Netflix - Watch TV Shows Online, Watch Movies Online
